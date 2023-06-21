@@ -11,3 +11,26 @@ print(type(b))
 print(type(c))
 
 #Variable names are case-sensitive.
+
+                #Multi Words Variable Names
+
+#Camel CAse
+
+myVariableName = "John"
+
+#Pascal Case
+
+MyVariableName = "John"
+
+# Snake Case
+
+my_variable_name = "John"
+
+x, y, z, a = "Orange", "Banana", "Cherry", "Akhilesh"
+print(x)
+print(y)
+print(z)
+print(a)
+
+
+                
